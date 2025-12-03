@@ -21,7 +21,7 @@ Aquí vas a encontrar proyectos como:
 - Estudio Poblacional del estado de Tamaulipas en R
 - Nota Técnica  de un Seguro Temporal (con su respectivo cotizador).
 - Nota Técnica de un Seguro Vitalicio (con su respectivo cotizador).
-- Aplicación del Cifrado de Hill en criptografía usando álgebra lineal y métodos numéricos en python.
+- Aplicación del Cifrado de Hill en cifrado de datos y criptografía usando álgebra lineal y métodos numéricos en python.
 - Caso de estudio para un Seguro Vitalicio en excel.
 
 ---
